@@ -1,17 +1,8 @@
 ### I'm Alexandre Dias 👋 
 
 <p align="justify">
-  <a href="https://github.com/saidatom/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=saidatom&count_private=true&show_icons=true&custom_title=Github%20Status&show_icons=true"
-    />
-  </a>
-   <a href="https://github.com/saidatom/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidatom&layout=compact" />
-  </a>  
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=saidatom&count_private=true&show_icons=true&custom_title=Github%20Status&show_icons=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidatom&layout=compact" />
 </p>
 
 <!--
